@@ -1,1 +1,2 @@
 Segundo archivo
+Actualización en archivo2.txt
